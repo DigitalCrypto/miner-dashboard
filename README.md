@@ -3,7 +3,10 @@
 [![Build Status](https://travis-ci.org/selaux/miner-dashboard.png)](https://travis-ci.org/selaux/miner-dashboard)
 [![Build Status](https://david-dm.org/selaux/miner-dashboard.png)](https://david-dm.org/selaux/miner-dashboard)
 
+
 Node.js based app to show the current status of your miner in a browser.
+
+This is a scrypt altcoin fork of the original Miner-Dashboard written for BTC Miners.
 
 #### Features
 - Display miner information
